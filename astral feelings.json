@@ -1,0 +1,67 @@
+{
+    "manifest": {
+        "author": "astra",
+        "name": "astral feelings",
+        "version": "1.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1089943771204046919\/1115741000040710175\/wallpapers_20230606133608.png",
+        "blur_radius": 8
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/1089943771204046919\/1115742953613312090\/MPLUSCodeLatin-Medium.ttf",
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1089943771204046919\/1115744631326515310\/MPLUSCodeLatin-Regular.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/1089943771204046919\/1115744631326515310\/MPLUSCodeLatin-Regular.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/1089943771204046919\/1115742953613312090\/MPLUSCodeLatin-Medium.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/1089943771204046919\/1115742953613312090\/MPLUSCodeLatin-Medium.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 841394124,
+        "accent": 871823610,
+        "background": 279230924,
+        "background_secondary": 10795468
+    },
+    "colors": {
+        "primary_dark_200": -1,
+        "primary_dark_630": 635753200,
+        "primary_dark_300": -65537,
+        "primary_dark_360": -4135172,
+        "brand_new_630": -591622,
+        "uikit_btn_compound_color_selector_dark": -1,
+        "uikit_btn_compound_color_selector_light": -4135172,
+        "uikit_btn_bg_color_selector_background_accent_dark": -4135172,
+        "uikit_btn_bg_color_selector_background_accent_light": -591622,
+        "uikit_btn_bg_color_selector_brand": -591622,
+        "uikit_btn_bg_color_selector_secondary": -591622,
+        "uikit_btn_bg_color_selector_secondary_dark": -4135172,
+        "uikit_btn_bg_color_selector_secondary_light": -4135172,
+        "uikit_btn_bg_color_selector_white": -591622,
+        "uikit_btn_outline_color_selector_brand": -4135172,
+        "uikit_settings_item_text_color_light": 1690363644,
+        "uikit_settings_item_text_color_dark": -1,
+        "link": -4135172,
+        "grey_unread": -591622,
+        "primary_dark_400": -1,
+        "white_500": -1781008,
+        "uikit_btn_bg_color_selector_green": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -4135172,
+        "ic_sidebar_notifications_off_dark_24dp": -1,
+        "ic_sidebar_pins_on_light_24dp": -4135172,
+        "ic_sidebar_notifications_on_light_24dp": -4135172,
+        "ic_sidebar_pins_on_dark_24dp": -4135172,
+        "ic_sidebar_pins_off_dark_24dp": -4135172,
+        "ic_sidebar_notifications_off_light_24dp": -4135172,
+        "ic_sidebar_notifications_on_dark_24dp": -4135172,
+        "drawable_overlay_channel_pressed_dark": -4135172,
+        "drawable_overlay_channel_pressed_light": -4135172,
+        "drawable_overlay_channels_selected_dark": -1765742852,
+        "drawable_overlay_channels_selected_light": 2109794044,
+        "ic_unread_white_9dp": -1781008,
+        "drawable_bg_voice_user_overlay": -4135172,
+        "ic_unread_white_9dp_horiz": -1781008,
+        "ic_status_idle_16dp": -1781008
+    },
+    "raws": {}
+}
